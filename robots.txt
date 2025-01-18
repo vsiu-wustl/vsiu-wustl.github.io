@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://vsiu-wustl.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://vsiu-wustl.github.io/sitemap.xml
