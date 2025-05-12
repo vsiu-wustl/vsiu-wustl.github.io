@@ -16,7 +16,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{
+        },{id: "news-happy-to-share-agentxploit-is-now-on-arxiv-more-to-come-very-very-soon",
+          title: 'Happy to share AgentXploit is now on arxiv! More to come very very...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
