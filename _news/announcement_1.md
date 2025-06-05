@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to share AgentXploit is now on arxiv! More to come very very soon.
+Happy to share AgentXploit is now on arxiv and that COSMIC is now accepted to ACL 2025!
