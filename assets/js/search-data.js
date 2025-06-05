@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-happy-to-share-agentxploit-is-now-on-arxiv-more-to-come-very-very-soon",
-          title: 'Happy to share AgentXploit is now on arxiv! More to come very very...',
+        },{id: "news-happy-to-share-agentxploit-is-now-on-arxiv-and-that-cosmic-is-now-accepted-to-acl-2025",
+          title: 'Happy to share AgentXploit is now on arxiv and that COSMIC is now...',
           description: "",
           section: "News",},{
         id: 'social-email',
